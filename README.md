@@ -7,3 +7,4 @@ Implementation of reduction and sorting algorithms in openCL.
 
 ### Matrices and QR decomposition: 
 1) transpose -> The transpose of a matrix.
+2) vector_reflection -> Calculates the reflection of a float4 vector.

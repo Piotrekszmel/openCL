@@ -9,3 +9,6 @@ Implementation of sorting algorithms and matrix operations in openCL
 1) transpose -> The transpose of a matrix.
 2) vector-reflection -> Calculates the reflection of a float4 vector.
 3) conjugate-gradient -> Calculates the conjugate gradient on bcsstk05.mtx data. Reads an mtx file using the functions contained in the mmio file. 
+
+### signal-processing:
+1) fourier-transform -> Fourier transform on real-valued data.
